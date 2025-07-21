@@ -9,4 +9,5 @@ Une traduction française pour Corn Kidz 64 !
 Compatible avec la branche bêta "60fpsmodebeta -new 60fps option" de la version Steam.
 
 Mes autres traductions françaises. https://gamebanana.com/members/submissions/portfolio/1723576
+
 Un serveur discord est disponible à cette adresse. https://discord.gg/TPdsRYPFE8
